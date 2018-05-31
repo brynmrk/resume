@@ -1,12 +1,31 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# MySQL
+- skill: MySQL
+  # description: Cascading style sheets are used to format the layout of Web pages.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Ruby on Rails
+- skill: Ruby on Rails
+  # description: Web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Rspec
+- skill: Rspec
+  # description: Web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+
+# Javascript
+- skill: Javascript
+  # description: High-level, dynamic, weakly typed, object-based, multi-paradigm, and interpreted programming language.
+
+# jQuery
+- skill: jQuery
+  # description: High-level, dynamic, weakly typed, object-based, multi-paradigm, and interpreted programming language.
+
+# CoffeeScript
+- skill: CofeeScript
+
+# ReactJS
+- skill: ReactJS
+  # description:
+
+# CSS
+- skill: CSS
+  # description: Cascading style sheets are used to format the layout of Web pages.
