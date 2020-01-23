@@ -1,8 +1,15 @@
 # Jobs
 # Springfield Nuclear Power Plant
+- company: Yeojinet Outsourcing Solutions Inc.
+  position: Backend Developer
+  duration: September, 2019 &mdash; Present
+  summary: "<ul class='resume-item-list'><li>Design, build, and maintain efficient, reusable, and reliable code for backend services</li><li>Scrape websites for data to be used on some of services</li></ul>"
+
+# Jobs
+# Springfield Nuclear Power Plant
 - company: Adish International Inc. (formerly GaiaX Asia Corporation)
   position: Junior Programmer
-  duration: May, 2016 &mdash; Present
+  duration: May, 2016 &mdash; September, 2019
   summary: "<ul class='resume-item-list'><li>Successfully developed websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, git (github) for in-house web systems</li><li>Maintained some of the old projects</li></ul>"
 
 # Jobs
