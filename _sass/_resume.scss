@@ -135,6 +135,15 @@
 .content-section {
   margin: 0 0 3rem;
 
+  &.skill {
+    display: grid;
+
+    .section-header {
+      grid-column-start: 1;
+      grid-column-end: 6;
+    }
+  }
+
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
