@@ -1,20 +1,30 @@
 # Jobs
 # Springfield Nuclear Power Plant
 - company: Yeojinet Outsourcing Solutions Inc.
-  position: Backend Developer
-  duration: September, 2019 &mdash; July 2020
-  summary: "<ul class='resume-item-list'><li>Design, build, and maintain efficient, reusable, and reliable code for backend services</li><li>Scrape websites for data to be used on some of services</li></ul>"
+  positions:
+    - title: Backend Developer
+      duration: September, 2019 &mdash; July 2020
+      summary: "<ul class='resume-item-list'><li>Design, build and maintain efficient, reusable and reliable code for backend services</li><li>Collaborate with a multidisciplinary team of designers, developers</li><li>Scrape websites for data to be used on company services</li></ul>"
 
-# Jobs
-# Springfield Nuclear Power Plant
+# # Jobs
+# # Springfield Nuclear Power Plant
+# - company: Adish International Inc. (formerly GaiaX Asia Corporation)
+#   position: Senior Developer
+#   duration: July 2019 &mdash; September 2019
+#   summary: "<ul class='resume-item-list'><li>Lead in creating and maintaining in-house web systems</li><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
+
+# # Jobs
+# # Springfield Nuclear Power Plant
+# - company: Adish International Inc. (formerly GaiaX Asia Corporation)
+#   position: Junior Developer
+#   duration: May 2016 &mdash; June 2019
+#   summary: "<ul class='resume-item-list'><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
+
 - company: Adish International Inc. (formerly GaiaX Asia Corporation)
-  position: Senior Developer
-  duration: May 2016 &mdash; September 2019
-  summary: "<ul class='resume-item-list'><li>Successfully developed websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, git (github) for in-house web systems</li><li>Maintained some of the old projects</li></ul>"
-
-# Jobs
-# Springfield Nuclear Power Plant
-- company: WebIdea Business Solutions and IT Consultation
-  position: Part-time Web Developer
-  duration: February 2016 &mdash; April 2016
-  summary: "<ul class='resume-item-list'><li>Successfully developed websites using the following techniques: PHP, JavaScript, phpMyAdmin, jQuery</li><li>Helped in creating and debugging projects assigned by the Client</li></ul>"
+  positions:
+    - title: Senior Developer
+      duration: July 2019 &mdash; September 2019
+      summary: "<ul class='resume-item-list'><li>Lead in creating and maintaining in-house web systems</li><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
+    - title: Junior Developer
+      duration: May 2016 &mdash; June 2019
+      summary: "<ul class='resume-item-list'><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
