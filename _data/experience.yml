@@ -1,11 +1,3 @@
-# Jobs
-# Springfield Nuclear Power Plant
-- company: Yeojinet Outsourcing Solutions Inc.
-  positions:
-    - title: Backend Developer
-      duration: September, 2019 &mdash; July 2020
-      summary: "<ul class='resume-item-list'><li>Design, build and maintain efficient, reusable and reliable code for backend services</li><li>Collaborate with a multidisciplinary team of designers, developers</li><li>Scrape websites for data to be used on company services</li></ul>"
-
 # # Jobs
 # # Springfield Nuclear Power Plant
 # - company: Adish International Inc. (formerly GaiaX Asia Corporation)
@@ -13,12 +5,17 @@
 #   duration: July 2019 &mdash; September 2019
 #   summary: "<ul class='resume-item-list'><li>Lead in creating and maintaining in-house web systems</li><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
 
-# # Jobs
-# # Springfield Nuclear Power Plant
-# - company: Adish International Inc. (formerly GaiaX Asia Corporation)
-#   position: Junior Developer
-#   duration: May 2016 &mdash; June 2019
-#   summary: "<ul class='resume-item-list'><li>Develop websites and tools using the following techniques: Ruby, Ruby on Rails, MySQL, jQuery, RSpec, and git (github)</li><li>Maintain and support existing in-house web systems</li><li>Debug and troubleshoot existing in-house web systems</li></ul>"
+- company: Quipper
+  positions:
+    - title: Software Engineer
+      duration: October, 2020 &mdash; Present
+      summary: "<ul class='resume-item-list'><li>Work as a part of global team in designing and developing web applications for students and teachers in the Philippines, Indonesia, Japan, and the rest of the world to provide high-quality user experience resulting in a more effective, more efficient and continuous productive learning.</li></ul>"
+
+- company: Yeojinet Outsourcing Solutions Inc.
+  positions:
+    - title: Backend Developer
+      duration: September, 2019 &mdash; July 2020
+      summary: "<ul class='resume-item-list'><li>Design, build and maintain efficient, reusable and reliable code for backend services</li><li>Collaborate with a multidisciplinary team of designers, developers</li><li>Scrape websites for data to be used on company services</li></ul>"
 
 - company: Adish International Inc. (formerly GaiaX Asia Corporation)
   positions:
